@@ -22,7 +22,8 @@ weight = 1
 title = "Wize AI"
 
 [languages.en.hero]
-  img = "/images/geometric-bg-overlay-wizeblue.jpg"
+  img = "/images/PPA_home19.png"
+//  img = "/images/geometric-bg-overlay-wizeblue.jpg"
   title = ""
   description = ""
   
