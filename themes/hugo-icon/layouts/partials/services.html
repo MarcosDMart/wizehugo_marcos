@@ -35,14 +35,13 @@
 
                 apiUrlBase: 'https://partner3.boost.ai/api',  //for v2 chat
 		filterValues:['est'],
-		title:['Virtual Assistant'],
-		chatPanel.triggerAction(6936)
+		title:['Virtual Assistant']
 		});
+	    setTimeout (() => { chatPanel.triggerAction(6936);}, 5000);
 
 		// Open panel on click
 		document.querySelector('.bai-open-chat-btn')
 			.addEventListener('click', function () {chatPanel.show()});
-//	    setTimeout (() => { chatPanel.triggerAction(6936);}, 5000);
     </script>
 	  
    <!-- Boost chat end -->
