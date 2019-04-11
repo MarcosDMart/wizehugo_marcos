@@ -37,11 +37,12 @@
 		filterValues:['est'],
 		title:['Virtual Assistant']
 		});
-	    setTimeout (() => { chatPanel.triggerAction(6936);}, 5000);
+	 //   setTimeout (() => { chatPanel.triggerAction(6936);}, 5000);
 
 		// Open panel on click
 		document.querySelector('.bai-open-chat-btn')
-			.addEventListener('click', function () {chatPanel.show()});
+//			.addEventListener('click', function () {chatPanel.show()});
+			.addEventListener('click', function () {chatPanel.triggerAction(6936)});
     </script>
 	  
    <!-- Boost chat end -->
