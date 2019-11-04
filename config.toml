@@ -1,8 +1,8 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://loving-johnson-b4b63a.netlify.com/"
+baseURL = "https://keen-nightingale-f8ae82.netlify.com/"
 languageCode = "en-EN"
-title = "Wize AI"
+title = "Wize AI Demo"
 
 defaultContentLanguage = "en"
 
