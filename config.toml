@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = "https://admiring-borg-f3cf08.netlify.com/"
 languageCode = "en-EN"
-title = "Wize AI Demo"
+title = "Grupo Extraordinaria Demo"
 
 defaultContentLanguage = "en"
 
@@ -15,14 +15,14 @@ defaultContentLanguage = "en"
 [languages]
 [languages.en]
 weight = 0
-title  = "Wize AI"
+title  = "Grupo Extraordinaria"
 
 [languages.et]
 weight = 1
-title = "Wize AI"
+title = "Grupo Extraordinaria"
 
 [languages.en.hero]
-  img = "/images/ciudad movil.jpg"
+  img = "/images/tele2_home.jpg"
   title = ""
   description = ""
   
